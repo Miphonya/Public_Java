@@ -12,3 +12,8 @@ Vous trouverez ici tout type de code que j'ai créé dans Java pour résoudre me
 [JP] 🇯🇵
 
 ここでは、私の問題を解決するためにJavaで作成したコードの種類を見つけるでしょうが、それはうまくいけば他の人を助けることができます。あなたはそれらを再利用することができますが、私^^信用してください ^^
+
+# Öffentliche_VBA
+[DE] 🇩🇪
+
+Hier finden Sie jede Art von Code, den ich in Java erstellt habe, um meine Probleme zu lösen, der aber hoffentlich anderen Leuten helfen kann. Sie können sie wiederverwenden, aber schreiben Sie mir ^^
